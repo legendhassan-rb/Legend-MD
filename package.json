@@ -1,12 +1,12 @@
 {
-  "name": "your name",
+  "name": "Legend-MD",
   "version": "1.0.0",
-  "description": "A WhatsApp Bot Created To automate tasks",
+  "description": "The Legendary WhatsApp Bot For Legend Hassan Army.",
   "main": "index.js",
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --name your name",
-    "stop": "pm2 stop your name",
-    "restart": "pm2 restart your name"
+    "start": "pm2 start index.js --deep-monitoring --attach --Legend-MD",
+    "stop": "pm2 stop Legend-MD",
+    "restart": "pm2 restart Legend-MD"
   },
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
